@@ -1,0 +1,24 @@
+/* ViewEmployeeComponent.css */
+.view-employee-container {
+    margin-top: 20px; /* Adjust the margin as needed */
+}
+
+.card {
+    border: 1px solid #ddd; /* Add a border to the card */
+    border-radius: 8px; /* Add border-radius for rounded corners */
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Add a subtle box shadow */
+    padding: 20px; /* Add padding to the card */
+}
+
+.card-body {
+    padding: 15px; /* Add padding to the card body */
+}
+
+.row {
+    margin-bottom: 15px; /* Add margin between rows */
+}
+
+label {
+    font-weight: bold; /* Make labels bold */
+    margin-right: 10px; /* Add margin to the right of labels */
+}
